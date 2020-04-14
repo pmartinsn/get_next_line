@@ -14,7 +14,7 @@
 
 ## Tested with 
 
-* [gnl_SQUAD-TEST](https://github.com/pmartinsn/gnl_SQUAD-TEST) - Tester for the GNL project
+* [gnl_SQUAD-TEST](https://github.com/pmartinsn/gnl_SQUAD-TEST) - Tester for the GNL project.
 
 
 ## Author
