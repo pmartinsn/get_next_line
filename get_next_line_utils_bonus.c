@@ -6,11 +6,11 @@
 /*   By: pmartins <pmartins@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/08/27 14:12:06 by pmartins          #+#    #+#             */
-/*   Updated: 2020/08/27 14:12:09 by pmartins         ###   ########.fr       */
+/*   Updated: 2020/08/28 09:52:18 by pmartins         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 void	free_and_return_null(char **s)
 {

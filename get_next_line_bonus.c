@@ -6,11 +6,11 @@
 /*   By: pmartins <pmartins@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/08/27 14:11:12 by pmartins          #+#    #+#             */
-/*   Updated: 2020/08/27 14:11:14 by pmartins         ###   ########.fr       */
+/*   Updated: 2020/08/28 09:52:55 by pmartins         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 void			*ft_calloc(size_t count, size_t size)
 {
